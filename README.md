@@ -1,2 +1,2 @@
-# Wolverine-beat-em-up-FINAL
-# Proyecto realizado en Python para la asignatura de Computación Gráfica de la UTP
+# Wolverine-Beat-em-up
+Beat 'em Up Style Wolverine game using pygame 
